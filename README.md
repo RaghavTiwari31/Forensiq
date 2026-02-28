@@ -432,6 +432,19 @@ python generate_test_data.py
 
 ---
 
+## 🤝 Project Background & Acknowledgement
+
+The Financial Forensics Engine was initially developed as a team project during the PW Hackathon.
+
+Original contributors:
+
+- [Adithya](https://github.com/adithyanotfound)
+- [Harshit Jain](https://github.com/HarshitJain2103)
+- [Sarthak Jha](https://github.com/iamsarthakjha)
+- [Raghav Tiwari](https://github.com/RaghavTiwari31)
+
+**This repository contains an independently maintained version with refinements in documentation, branding, and system organization.**
+
 ## 📝 License
 
 This project was built for the **PW Hackathon**.
