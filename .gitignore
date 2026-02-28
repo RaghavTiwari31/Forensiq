@@ -43,3 +43,8 @@ next-env.d.ts
 /src/generated/prisma
 
 service-account.json
+
+test_results.py
+test_edge_cases.txt
+test_expected_output.txt
+generate_test_data.py
